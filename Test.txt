@@ -2,8 +2,8 @@ public class Test
 {
 	public static void main(string[] args)
 	{
-		System.out.println("Hello Test");
 		System.out.println("Hello Text");
+		System.out.println("Hello Text2");
 	}
 
 }
